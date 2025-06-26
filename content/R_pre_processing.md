@@ -5,8 +5,8 @@ nav_order: 5
 ---
 # Pre-processing in R (not covered in workshop)
 
-Note, there are ways to do the entire analysis in R,but for this workshop we are explicitly using GIS because it is preferred. 
-GIS allows more intuitive customization and allows you to work with any compatible dataset with comparative ease. <https://mountainmath.github.io/cancensus/>
+Note, there are ways to do <a href="https://mountainmath.github.io/cancensus/" target="_blank">the entire analysis in R</a>, but for this workshop we are explicitly using GIS because it is preferred. 
+GIS allows more intuitive customization and allows you to work with any compatible dataset with comparative ease. 
 
 ## Part 1: Download the data
 
@@ -15,7 +15,7 @@ We provide a subset of the total data to accommodate various computer capacities
 
 ### Spatial data
 
-Go to <https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21>
+Go to the <a href="https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21" target="_blank">Statistics Canada website</a>.
 
 Select the Type "Cartographic Boundary Files (CBF)" -\> Administrative Boundary "Census Divisions" -\> Format "Shapefile (.shp)"
 
@@ -23,9 +23,9 @@ This file is very large and will download as a zip file. This file needs to be u
 
 ### Census data
 
-\*\* if you are UBC affiliated, you may be able to use this link to download only the census data you are interested in. This will remove the need for a lot of the subsetting that occurs early in the tutorial <https://resources.library.ubc.ca/page.php?id=521>
+<em>Note: if you are UBC affiliated, you may be able to use <a href="https://resources.library.ubc.ca/page.php?id=521" target="_blank">this link</a> to download only the census data you are interested in. This will remove the need for a lot of the subsetting that occurs early in the tutorial.</em>
 
-Go to <https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/index.cfm?Lang=E> and click the "Download Data" button
+Go to <a href="https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/index.cfm?Lang=E" target="_blank">data download page</a> and click the "Download Data" button
 
 There are two main download options: with and without confidence intervals. select the without confidence intervals option
 
