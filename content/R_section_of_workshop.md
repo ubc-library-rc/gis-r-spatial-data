@@ -4,7 +4,7 @@ title: R processing for workshop
 nav_order: 6
 ---
 # Demo of how to subset and save data for GIS
-We did other pre-processing for you that is not covered in the workshop but can be viewed on this page.
+We did other pre-processing for you that is not covered in the workshop but can be <a href="https://github.com/ubc-library-rc/gis-r-spatial-data/blob/main/content/R_pre_processing.md" target="_blank">viewed on this page</a>.
 
 **Download the reformatted files on GitHub here.**
 
