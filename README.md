@@ -1,4 +1,4 @@
-# Name of workshop
+# Analysis of Canadian Census Data: R and GIS pipeline
 ### UBC Library Research Commons
 
 :heavy_exclamation_mark: This workshop is in development and not yet complete. :heavy_exclamation_mark:    
