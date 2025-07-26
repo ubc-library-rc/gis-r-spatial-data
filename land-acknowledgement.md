@@ -10,3 +10,5 @@ Before beginning the workshop, we'd like to acknowledge the Indigenous lands whe
 ![map from Native Land Digital](native_land_map.png)
 
 This map is from <em>Native Land Digital</em>. Please take a moment to explore [native-land.ca](https://native-land.ca/) and learn about the Indigenous territories, languages, and treaties in your area.
+
+<iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&position=49.244770894278666, -123.16698232306474&key=AADlPNbKCBAepz816odRT" style="width:100%; height:400px; border:none;"></iframe>
